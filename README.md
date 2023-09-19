@@ -4,7 +4,7 @@
 
 ![fig-gif](https://github.com/Julia-Pickel/Julia-Pickel/assets/145296722/558a444d-3dc0-4f91-8e41-7c4afd5fea08) 
 
-I'm Julia, 31 years old and based in Germany. I have a background in architecture, architectural photography and worked lately as a project and construction manager. I'm very excited about the upcoming weeks and to gain knowledge in the field of Web Dev!
+I'm Julia, 31 years old and based in Germany. I have a background in architecture, architectural photography and worked lately as a project and construction manager. I'm very excited about the upcoming weeks and gaining knowledge in the field of Web Dev!
 
 ___
 **My key skills include:**
