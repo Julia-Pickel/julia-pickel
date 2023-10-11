@@ -1,6 +1,6 @@
 ## Hello there – nice to see you !
 
-#### I'm currently doing a Web Development Bootcamp and I'm thrilled to share my journey with you!
+**I'm currently doing a Web Development Bootcamp and I'm thrilled to share my journey with you!**
 
 ![fig-gif](https://github.com/Julia-Pickel/Julia-Pickel/assets/145296722/558a444d-3dc0-4f91-8e41-7c4afd5fea08) 
 
