@@ -6,6 +6,3 @@
 
 My name is Julia and I'm based in Munich, Germany.  
 I have a background in architecture, architectural photography and worked as a project and construction manager. I'm very excited to take on new challenges and go deeper into Web Dev!
-
-
-###### 🔗 **How to reach me:** [jpic.eu](https://jpic.eu/) | [@juliapickel](https://de.linkedin.com/in/julia-pickel-188937231)
