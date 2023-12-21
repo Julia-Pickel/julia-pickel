@@ -1,6 +1,6 @@
 ## Hello there – nice to see you !
 
-![fig-gif](https://github.com/Julia-Pickel/Julia-Pickel/assets/145296722/558a444d-3dc0-4f91-8e41-7c4afd5fea08) 
+![wave](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQxNnBtNjhia2U2NHIybm54d2MxeDl5bGdoMWx1ZWNjcDhkYTI2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFD0hWlEmEP7HqOJ7I/giphy.gif) 
 
 **I'm thrilled to share my Web Dev journey with you!**
 
